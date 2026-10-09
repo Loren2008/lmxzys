@@ -1,0 +1,53 @@
+{
+  "shuaguaita": {
+    "flying": false,
+    "actions": {},
+    "dimension": "minecraft:overworld",
+    "mode": "survival",
+    "name": "shuaguaita",
+    "desc": "Resident bot",
+    "pos": [
+      2857.023661532193,
+      184.0,
+      1200.39516445266
+    ],
+    "facing": [
+      75.84506,
+      94.783936
+    ]
+  },
+  "lmxnbnbnb": {
+    "flying": false,
+    "actions": {},
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "name": "lmxnbnbnb",
+    "desc": "Resident bot",
+    "pos": [
+      -495.30000001192093,
+      176.0,
+      29.30000001192093
+    ],
+    "facing": [
+      87.495224,
+      -83.30287
+    ]
+  },
+  "XJPXJP": {
+    "flying": false,
+    "actions": {},
+    "dimension": "minecraft:overworld",
+    "mode": "creative",
+    "name": "XJPXJP",
+    "desc": "Resident bot",
+    "pos": [
+      -454.30000001192093,
+      152.0,
+      780.3000000119209
+    ],
+    "facing": [
+      54.173218,
+      12.812743
+    ]
+  }
+}
