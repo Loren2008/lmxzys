@@ -1,2 +1,6 @@
 session.lock
 *.tmp
+ledger.sqlite
+ledger.sqlite-journal
+ledger.sqlite-wal
+ledger.sqlite-shm
