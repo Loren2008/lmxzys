@@ -3072,9 +3072,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "summoned_golem": "2026-10-10 23:23:35 +0800"
+      "has_pumpkin": "2026-10-10 23:23:15 +0800"
     },
     "done": true
   },
@@ -3084,9 +3084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "has_pumpkin": "2026-10-10 23:23:15 +0800"
+      "summoned_golem": "2026-10-10 23:23:35 +0800"
     },
     "done": true
   },
