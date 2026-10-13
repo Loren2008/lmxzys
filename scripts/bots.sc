@@ -118,6 +118,6 @@ remove(name) -> (
 testkeys() -> (
     for (player('all'),
         p = _;
-        print(p~'name' + str(': ip=%s ping=%s', query(p, 'ip'), query(p, 'ping')));
+        print(p~'name' + str(': player_type=%s', query(p, 'player_type')));
     );
 );
